@@ -1,0 +1,118 @@
+#para1{
+    color: black;
+font-size: 20px;
+}
+#header{
+   color: #dc00f5(195, 0, 255)
+   font-size 200px;
+    
+}
+.content{
+     color: #ff0000;
+      font-size: 30px;
+
+}
+#main{
+    width: 3000px;
+    height: 300;
+    background-color:slateblue;
+}
+
+   #div1{
+       width: 150px;
+       height: 200px;
+       background-color: black;
+       margin-bottom: 200px;
+       margin-top: -1px;
+       color: white;
+      
+border:5px solid;
+border-color: red;
+       
+   }
+
+.white{
+    color: white;
+}
+#div2{
+    width: 150px;
+    height: 200px;
+    background: black;
+    color: white;
+margin-left: 161px ;
+margin-top: -410px;
+border: 5px solid;
+border-color: red;
+
+
+
+
+
+
+}
+#img1{
+    width: 100px;
+    height:70px;
+
+}
+#mask{
+    width: 150px;
+    height: 180px;
+   
+}
+#home{
+    width: 150px;
+    height: 199px;
+}
+.div3{
+
+width:150px ;
+height: 200px;
+background-color: black;
+margin-left: 323px;
+margin-top: -210px ;
+border: 5px solid;
+border-color: red;
+
+}
+#sani{
+    width: 150px;
+    height: 200px;
+}
+.div4{
+    width: 160px;
+height: 200px;
+background-color: black;
+margin-left: 486px;
+margin-top: -210px;
+border: 5px solid;
+border-color: red;
+
+
+
+
+}
+#glo{
+    height: 200px;
+    width: 160px;
+}
+#ani{
+    margin-left: 450px;
+    margin-top: -390px;
+}
+#div5{
+    background-color: black;
+    width: 160px;
+    height: 200px;
+    margin-top:-210px ;
+margin-left:660px ;
+padding-bottom: px;
+border: 5px solid;
+border-color: red;
+
+
+
+}#vid1{
+    width: 160px;
+    height: 230px;
+}
